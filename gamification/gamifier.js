@@ -1,7 +1,6 @@
-  var memberId,
-  gameId = '$Game_Id$',
-  epURL = '$Endpoint_URL$',
-  iwcGamification;
+  var memberId,iwcGamification;
+  // gameId = '$Game_Id$',
+  // epURL = '$Endpoint_URL$',;
 
 
   var useAuthentication = function(rurl){
