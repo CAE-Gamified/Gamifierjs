@@ -11,7 +11,6 @@ To use Gamifierjs library in your community application, you need to
 - Copy *gamification* folder in Gamifierjs repository to your application folder
 - Include Gamifierjs files in widget.xml :
 ```
-<script type="text/javascript" src="{URL path}/gamification/aop.pack.js"></script>
 <script type="text/javascript" src="{URL path}/gamification/gamifier.js"></script>
 <script type="text/javascript" src="{URL path}/gamification/oidc-widget.js"></script>
 ```
